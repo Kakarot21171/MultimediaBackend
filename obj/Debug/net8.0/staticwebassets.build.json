@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "coroEAG6uwE7fL3ZP/0hQg0p5ODHpuEt7e13fM8/yvA=",
+  "Source": "MultimediaManagementBackend",
+  "BasePath": "_content/MultimediaManagementBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
